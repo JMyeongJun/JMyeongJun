@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jo MyeongJun
-- 👀 I’m interested in Java and db
-- 🌱 I’m currently learning Java for Backend Developer!!
 - 💞️ I’m looking to collaborate on toy project
 - 📫 How to reach me ... zcym002@naver.com
 <br />
